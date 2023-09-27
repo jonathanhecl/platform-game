@@ -33,3 +33,15 @@ position = Vector2(1737, 360)
 
 [node name="Platform10" parent="." instance=ExtResource("1_lttdj")]
 position = Vector2(2077, 218)
+
+[node name="Platform11" parent="." instance=ExtResource("1_lttdj")]
+position = Vector2(1417, 36)
+
+[node name="Platform12" parent="." instance=ExtResource("1_lttdj")]
+position = Vector2(1693, -159)
+
+[node name="Platform13" parent="." instance=ExtResource("1_lttdj")]
+position = Vector2(1984, -349)
+
+[node name="Platform14" parent="." instance=ExtResource("1_lttdj")]
+position = Vector2(2803, -297)
